@@ -1,5 +1,5 @@
 # Quiz
-A Quiz webpage, built with HTML and CSS as part of freeCodeCamp's Responsive Web Design Certification.
+A webpage for a quick quiz on HTML and CSS, built with HTML and CSS as part of freeCodeCamp's Responsive Web Design Certification.
 
 ## Technologies Used
 - HTML
