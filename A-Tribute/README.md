@@ -1,5 +1,5 @@
 # A Tribute
-A tribute page for Nikola Tesla, built with HTML and CSS as part of freeCodeCamp's Responsive Web Design Certification.
+A tribute page for Nikola Tesla and it is the second certification project, built with HTML and CSS as part of freeCodeCamp's Responsive Web Design Certification.
 
 ## Technologies Used
 - HTML
