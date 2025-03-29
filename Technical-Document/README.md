@@ -1,5 +1,5 @@
 # Technical Document
-A technical document webpage for responsive design, built with HTML and CSS as part of freeCodeCamp's Responsive Web Design Certification.
+A technical document webpage for responsive design, third certification project, built with HTML and CSS as part of freeCodeCamp's Responsive Web Design Certification.
 
 ## Technologies Used
 - HTML
